@@ -1,3 +1,4 @@
+corazonlatino.online
 core42-skillsobservatory.site
 coreatominvest.online
 corebankings.site
@@ -252,4 +253,3 @@ cryptocurrency-37454.bond
 cryptocurrency-40288.bond
 cryptocurrency-42208.bond
 cryptocurrency-45291.bond
-cryptocurrency-45800.bond

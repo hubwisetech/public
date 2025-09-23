@@ -1,3 +1,5 @@
+venue108knox.online
+venusglossgt.site
 venusgraygt.site
 venuspinksedan.site
 venussmoothgt.site
@@ -251,5 +253,3 @@ virtual-event-platforms-24828.bond
 virtual-event-platforms-27354.bond
 virtual-event-platforms-30433.bond
 virtual-event-platforms-31901.bond
-virtual-event-platforms-32967.bond
-virtual-event-platforms-35721.bond

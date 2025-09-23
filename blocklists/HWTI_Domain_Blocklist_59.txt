@@ -1,3 +1,5 @@
+newsandtips.online
+newsatomi.online
 newschain.online
 newsdailyfocus.online
 newsdealsyou.online
@@ -251,5 +253,3 @@ nova-roleplay.site
 novaantalyatransfer.site
 novaautopecas.online
 novacardstudio.online
-novacarehub.online
-novacircuit1895.site

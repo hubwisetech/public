@@ -1,3 +1,5 @@
+virtual-event-platforms-32967.bond
+virtual-event-platforms-35721.bond
 virtual-event-platforms-40746.bond
 virtual-event-platforms-43918.bond
 virtual-event-platforms-53067.bond
@@ -251,5 +253,3 @@ w1-shawlpg.online
 w1-shawlpg.site
 w2-partners.online
 w2ajfmmspt.top
-w3labs.xyz
-w3ntjuk5fu.top
