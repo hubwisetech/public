@@ -1,4 +1,3 @@
-clickandfetch.store
 clickandgrab.site
 clickbot.site
 clickcatalogodigital.online
@@ -253,3 +252,4 @@ compadvantage.online
 companiesdirect.online
 company-party-venues127.click
 company-project.online
+companyearnings.site
