@@ -66,6 +66,7 @@
 2aservicesinc.site
 2bw7r32r5eshwk2h7uekj3lwzorxds2jyhyzqyilphid3r27x5hsf4yd.onion
 2ch-matome.site
+2fgithub.com
 2fvse37x1t.top
 2hexy-6uioqc-kmsnyz.work
 2i04t-gfybo-rzjhqm.work
@@ -252,4 +253,3 @@
 57yvu7mtq4jb.xyz
 581396-icloud.com
 5828342-coinbase.com
-584333.xyz
