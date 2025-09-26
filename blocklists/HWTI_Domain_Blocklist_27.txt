@@ -1,3 +1,6 @@
+completeassist.site
+completebody.online
+completecareservices.online
 completecarhire.online
 completeclarity.online
 completecustomhomes.online
@@ -250,6 +253,3 @@ contractorsmarketingcrew.site
 contractorsservices0809.online
 contrastcolour.online
 contratacaoml212.site
-contratistaselchonta.site
-contratoseservicos.site
-contribuicao-solidaria.site
