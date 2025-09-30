@@ -1,3 +1,4 @@
+centralpecas.online
 centralregportal.online
 centralsy.online
 centraltoken.xyz
@@ -252,4 +253,3 @@ chicken-miles.site
 chicken-ro.site
 chicken-roa.site
 chicken-road-777.online
-chicken-road-fp.site

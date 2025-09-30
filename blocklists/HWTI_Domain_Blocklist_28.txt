@@ -1,3 +1,4 @@
+chicken-road-fp.site
 chicken-road-lat.site
 chicken-road-lt.site
 chicken-road-lv.site
@@ -252,4 +253,3 @@ ck-apple.sbs
 ck-befong.online
 ckaeurujuwi.cn
 ckalert5434.online
-ckautomation.site

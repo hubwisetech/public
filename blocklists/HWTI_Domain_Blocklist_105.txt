@@ -1,3 +1,6 @@
+shinyguysdetail.site
+shinystorm.online
+shinyu-shoji.jp
 shiori-sneko.online
 shipping-container-37548.bond
 shipping-container-homes-37181.bond
@@ -250,6 +253,3 @@ simpleglobal.site
 simplemercado.site
 simplemundo.site
 simplenewsguy.online
-simplenexo.site
-simplenova.site
-simpleorigen.site

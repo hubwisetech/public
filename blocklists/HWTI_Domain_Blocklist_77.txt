@@ -1,3 +1,5 @@
+metodserialkud.online
+metodserialmlp.online
 metodserialtlp.online
 metodserialukg.online
 metodserialxlc.online
@@ -251,5 +253,3 @@ mirotvorecnovyeseriinmo.online
 mirotvorecnovyeseriioii.online
 mirotvorecnovyeseriipyz.online
 mirotvorecnovyeseriivmg.online
-mirotvorecnovyisezonadg.online
-mirotvorecnovyisezonelk.online

@@ -1,3 +1,6 @@
+tech-quality-management-7gds1z.bond
+tech-quality-management-xe1sdv.bond
+tech-quality-management-y4zb13.bond
 tech-risk-management-1p01ju.bond
 tech-risk-management-31z6b3.bond
 tech-software-qgd0y3.bond
@@ -250,6 +253,3 @@ tf8y1mymcafdmrs1ilho9lce4xf3h.rw
 tfc-shopaus.online
 tfcservis.cz
 tfctfa-example.xyz
-tfmplumbingservices.online
-tfwjtrkuueobz.online
-tfzrwcnv.ws

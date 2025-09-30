@@ -1,3 +1,6 @@
+tokenizegroup.xyz
+tokenmill.xyz
+tokenplayers.xyz
 tokenpumpfun.xyz
 tokentherapy.xyz
 tokentraffic.xyz
@@ -250,6 +253,3 @@ trackdown.online
 trackflarex.xyz
 trackgalus.space
 trackingfr.xyz
-trackinglocker.site
-trackingoptimizing.online
-trackingstriker.site

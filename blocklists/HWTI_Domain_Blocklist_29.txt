@@ -1,3 +1,4 @@
+ckautomation.site
 ckcelltechnologies.online
 ckdshelter.online
 ckmadvisory.online
@@ -252,4 +253,3 @@ cloudpathgo.site
 cloudtask.online
 cloudtrackix.site
 cloudtrade.club
-cloudvera.site

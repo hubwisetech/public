@@ -1,3 +1,5 @@
+inscricaopm.site
+inscricaoprf.online
 inscricaotime-tim.site
 inscricoes-brasil.site
 inscricoes-hojetim.site
@@ -251,5 +253,3 @@ ironbannercollective.xyz
 ironcladaviation.online
 ironcompass.site
 ironhusky.site
-ironmancabinets.online
-ironwoodfinishes.online
