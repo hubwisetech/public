@@ -1,3 +1,4 @@
+voiceanalysis.online
 voiceledger.xyz
 voicepromedia.online
 voicescript.xyz
@@ -252,4 +253,3 @@ warehouse-inventory-18463.bond
 warehouse-inventory-35604.bond
 warehouse-inventory-42079.bond
 warehouse-inventory-42236.bond
-warehouse-inventory-76842.bond
