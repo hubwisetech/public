@@ -1,3 +1,6 @@
+tech-cloud-computing-b8ue1w.bond
+tech-cloud-computing-qx9trr.bond
+tech-cloud-computing-sp206s.bond
 tech-cloud-computing-syeb2k.bond
 tech-cloud-computing-vf1ajy.bond
 tech-cloud-computing-xf4rqh.bond
@@ -250,6 +253,3 @@ testonotchreviews.online
 testorgdomain.xyz
 testoultracolombia.site
 testowadomenafotz.online
-testraingstables.site
-testwebsitevoormiranda.online
-teterboroairportlimousineservice.site

@@ -1,3 +1,6 @@
+placementgroup.site
+placementhub.site
+placementnetwork.site
 placementpro.site
 placementpros.site
 placementzone.site
@@ -250,6 +253,3 @@ pokerdomlive.top
 pokerdomzc.buzz
 pokerforfrance.site
 pokerhokibet88b.xyz
-pokerok--club.online
-pokerstars-casino.xyz
-pokkori-diet.xyz
