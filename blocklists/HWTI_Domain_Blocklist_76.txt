@@ -1,3 +1,4 @@
+media-markt.xyz
 media-technology.site
 mediacreator.xyz
 mediahighlightzone.online
@@ -252,4 +253,3 @@ metasprout.xyz
 metatronfabrics.site
 metaverseaffiliate.xyz
 metaversecustodian.xyz
-metaversefi.site
