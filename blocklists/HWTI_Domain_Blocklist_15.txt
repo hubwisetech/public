@@ -1,5 +1,3 @@
-aureaflow.store
-aurelax.online
 aureliavistavillage.site
 aurelin.store
 aureumprotocol.online
@@ -253,3 +251,5 @@ avanttacreations.online
 avecvousdeals.online
 avemcapital.site
 avendodesign.online
+aventoscl.site
+aventurascaribe.online
