@@ -1,3 +1,9 @@
+capital-top-cashvisionio.sbs
+capital-top-debtsparkpro.sbs
+capital-top-finatlaslab.sbs
+capital-top-finatlaspro.sbs
+capital-top-finrisezone.sbs
+capital-top-finshiftpro.sbs
 capital-top-finversehub.sbs
 capital-top-fundrisepro.sbs
 capitalaccountingsolution.xyz
@@ -247,9 +253,3 @@ cbdcprojects.site
 cbehegm.org
 cbfb0gjpssdl5xflyjw3dvmeow5tj.mc
 cblwnwb.biz
-cbplanmanagement.online
-cbrewardsprogram.online
-ccaexports.site
-cccrushonzj.online
-ccdevelopment.online
-ccircadastrorural.site
