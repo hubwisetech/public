@@ -201,6 +201,7 @@ bloomnpresent.online
 bloomshoppers.store
 bloomsniper.site
 bloomspire.store
+bloomwpp.info
 bloomzy.online
 bloptimizersi.site
 bloptimizerss.site
@@ -252,4 +253,3 @@ blueprintinmotion.online
 blueprintonline.xyz
 blueprintwithmekyla.site
 bluesellshop.click
-bluesign.pt
