@@ -1,3 +1,5 @@
+enchanted-portals.site
+enchantedcarry.store
 encoreplay.site
 encounteradelaide.online
 encrypts-unicycle.site
@@ -251,5 +253,3 @@ espresso-world-map.site
 espressomachinedepot.site
 esquemasmitre.xyz
 esquilodomomento.online
-esquilomania-brasil.site
-esquilowinwin.online
