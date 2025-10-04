@@ -1,3 +1,4 @@
+tech-cloud-migration-vi8yqi.bond
 tech-cloud-storage-l64z05.bond
 tech-digital-marketing-e27fvp.bond
 tech-inventory-management-pw8sqh.bond
@@ -252,4 +253,3 @@ tgmetrorail.online
 tgminiappslots.online
 tgowlandzoo.online
 tgqcqboknf.com
-tgrplumbing.online

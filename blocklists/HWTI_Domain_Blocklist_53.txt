@@ -1,3 +1,4 @@
+gls-hk.help
 glstore-pay.site
 glucavit-se.online
 glucavit-se.site
@@ -252,4 +253,3 @@ gpsliberty.site
 gpt-cloud.site
 gptanswers.xyz
 gptbedinbox.site
-gptdesigner.site

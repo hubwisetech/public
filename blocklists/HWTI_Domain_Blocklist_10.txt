@@ -1,3 +1,4 @@
+allow-permission.online
 allowanceguard.xyz
 alloytrayrepairs.online
 allpathvetavirtual.site
@@ -252,4 +253,3 @@ amitykitchen.online
 amjsecurity.online
 amkeprojects.online
 aml-proverka.online
-amlogenplugin.site

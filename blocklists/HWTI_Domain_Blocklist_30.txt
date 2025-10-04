@@ -1,3 +1,4 @@
+cloudscare.xyz
 cloudsforge.in
 cloudstore.business
 cloudtask.online
@@ -252,4 +253,3 @@ commercial-vehicles-au-72650.shop
 commercial-vehicles-gb-24961.shop
 commissionblueprint.online
 commnetwork.online
-commoditysecure.online

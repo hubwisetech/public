@@ -1,3 +1,4 @@
+nvidia-release.cloud
 nvidia-release.org
 nvidia-release.us
 nvrcopa.link
@@ -252,4 +253,3 @@ olhar-inss.site
 olidhealth.com
 olimpusswin.site
 olioepiurestaurant.site
-olivefinancialmarkets.online
