@@ -1,5 +1,3 @@
-affinitypropertygroup.online
-affixsolutions.site
 afflictions.xyz
 affluenceprimesmaster.xyz
 affluentaesthetics.online
@@ -28,7 +26,6 @@ afonsocabral.online
 afonsoleitao.site
 aforementioned.xyz
 afornalhapoppizzaria.site
-afpsat.pt
 afrccimtcrnet.com
 afrccirtcrnct.com
 afrcclntcrnet.com
@@ -253,3 +250,6 @@ airesearchstudy.online
 airfreshcleaners.site
 airliebeachrsl.online
 airlifthasrugby.lol
+airline-travel4.online
+airlines-2549.online
+airlines-2549.site
