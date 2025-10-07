@@ -1,5 +1,3 @@
-ahmedenterprises.site
-ahmedlotfy.site
 ahmedmaintenanceservices.site
 ahmedstore.site
 ahmetsevimli.online
@@ -253,3 +251,5 @@ alfamedicina43-mk.site
 alfamedicina45-mk.site
 alfamedicina49-mk.site
 alfamedicina54-mk.site
+alfamedicina56-mk.site
+alfamedicina58-mk.site
