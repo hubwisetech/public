@@ -1,3 +1,4 @@
+coinsgames.com
 coinsketch.xyz
 coinslice.xyz
 coinsnest.com
@@ -252,4 +253,3 @@ connectdevopsengineers.online
 connectdevsol.online
 connected-cooking-devices.online
 connected-fitness-gear.online
-connected-outdoor-lights.online
