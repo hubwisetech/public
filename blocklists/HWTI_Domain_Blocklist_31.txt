@@ -1,3 +1,4 @@
+blocknexus.site
 blocksketch.xyz
 blockstory.site
 blockvault.online
@@ -252,4 +253,3 @@ bookingdrones.xyz
 bookingradar.online
 bookingscript.site
 bookingsplanner.online
-bookitplus.online

@@ -1,3 +1,4 @@
+crypto-maniac.store
 crypto-mart.xyz
 crypto-news-today.online
 crypto-news.biz
@@ -252,4 +253,3 @@ cucainvest.site
 cuckoo-hku.xyz
 cucukakeslot.xyz
 cudominer.xyz
-cuentastvcablecentro.site
