@@ -1,3 +1,5 @@
+dailygrowthpath.online
+dailyharvest.site
 dailyhealthwaysnews.site
 dailyhomeessentials.site
 dailyjobsalert.online
@@ -251,5 +253,3 @@ dekhosabhinews.site
 delays-coinbase.com
 delectabledishes.online
 delhiveryo.top
-deliciousbites.online
-delidevaneolmusumyar.online
