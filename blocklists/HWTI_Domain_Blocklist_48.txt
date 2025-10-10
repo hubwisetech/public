@@ -1,3 +1,5 @@
+cryptovest.icu
+cryptovisionhub.buzz
 cryptovultures.com
 cryptowalletsonline.com
 cryptowavesurfer.com
@@ -251,5 +253,3 @@ dailyblockchain.online
 dailybowlstudio.site
 dailycrux.site
 dailydoseplus.site
-dailyedgehub.site
-dailyfitnesshub.site

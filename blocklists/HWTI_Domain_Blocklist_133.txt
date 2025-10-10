@@ -1,3 +1,10 @@
+voguestyling.online
+voice-controlled-kitchen.online
+voice-controlled-thermostat.online
+voiceairdrop.xyz
+voiceanalysis.online
+voiceledger.xyz
+voicepromedia.online
 voicescript.xyz
 voidwareclient.xyz
 voila-mode.site
@@ -246,10 +253,3 @@ warnetslotalt01.site
 warnetslotalt02.site
 warnetslotalt03.site
 warnetslotalt04.site
-waroonaharveybusservices.online
-warragambacompounding.online
-warrahspecialschool.online
-warrenchristop.site
-warrenphotographyslideshows.online
-warriorforjesus.site
-warriorqueendesign.online
