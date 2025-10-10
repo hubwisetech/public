@@ -1,6 +1,3 @@
-888hawaiian.xyz
-888hazard.xyz
-888header.xyz
 888headline.xyz
 888health.xyz
 888heaven.xyz
@@ -253,3 +250,6 @@
 888primary.xyz
 888printers.xyz
 888printing.xyz
+888priority.xyz
+888producer.xyz
+888profiles.xyz

@@ -1,6 +1,3 @@
-888writer.xyz
-888yellow.xyz
-888yields.xyz
 888zombie.xyz
 888zombies.xyz
 88academy.xyz
@@ -253,3 +250,6 @@
 88legends.xyz
 88leisure.xyz
 88lending.xyz
+88lessons.xyz
+88letters.xyz
+88liberty.xyz

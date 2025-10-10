@@ -1,6 +1,3 @@
-888priority.xyz
-888producer.xyz
-888profiles.xyz
 888program.xyz
 888progress.xyz
 888project.xyz
@@ -253,3 +250,6 @@
 888wireless.xyz
 888wizard.xyz
 888workout.xyz
+888writer.xyz
+888yellow.xyz
+888yields.xyz

@@ -1,6 +1,3 @@
-888awards.xyz
-888awesome.xyz
-888babylon.xyz
 888backbone.xyz
 888baggage.xyz
 888bakery.xyz
@@ -253,3 +250,6 @@
 888harbor.xyz
 888hardware.xyz
 888hawaii.xyz
+888hawaiian.xyz
+888hazard.xyz
+888header.xyz
