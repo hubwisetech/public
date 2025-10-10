@@ -1,3 +1,5 @@
+blockalter.xyz
+blockamiga.xyz
 blockanimal.xyz
 blockannual.xyz
 blockarabia.xyz
@@ -251,5 +253,3 @@ blockseals.xyz
 blockseat.xyz
 blocksgame.xyz
 blockshake.xyz
-blockshoot.xyz
-blockshout.xyz

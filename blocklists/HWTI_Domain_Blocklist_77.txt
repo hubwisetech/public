@@ -1,3 +1,5 @@
+karkas-doma-sovet.online
+karkas-doma-vash.online
 karkas-domaonline.online
 karkasnaya-architektura.online
 karkasnie-tekhnologii.online
@@ -251,5 +253,3 @@ kingfisherdesigns.online
 kingkong39alterego.online
 kinglott.ml
 kingmattress.online
-kingofcarts.xyz
-kingpatrick.site

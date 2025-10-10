@@ -1,3 +1,5 @@
+bookingradar.online
+bookingscript.site
 bookingsplanner.online
 bookitplus.online
 bookkeepingbreeze.online
@@ -251,5 +253,3 @@ brightstepvetavirtual.site
 brightventurehub.xyz
 brightvetavirtual.site
 brightvitalway.online
-brightwayeducation.online
-brightwayvetavirtual.site

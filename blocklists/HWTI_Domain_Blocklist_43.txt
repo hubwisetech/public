@@ -1,3 +1,5 @@
+clientdomains.online
+clienteservicoscorssan.site
 clientfirstgroup.online
 clientflow-ai.online
 clientsookla.online
@@ -251,5 +253,3 @@ coinbaskets.xyz
 coinbears.xyz
 coinbison.xyz
 coinbohemia.xyz
-coinboston.xyz
-coinbride.xyz

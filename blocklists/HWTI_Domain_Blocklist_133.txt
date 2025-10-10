@@ -1,3 +1,8 @@
+voedeprimeira.online
+voedigitalmra.online
+vogueinvestments.online
+voguemart.online
+vogueresidential.online
 voguestyling.online
 voice-controlled-kitchen.online
 voice-controlled-thermostat.online
@@ -248,8 +253,3 @@ warfighterfit.online
 warith-academy.site
 warkov-safeerleather.site
 warkovsafeerleather.site
-warmhugsblog.site
-warnetslotalt01.site
-warnetslotalt02.site
-warnetslotalt03.site
-warnetslotalt04.site
