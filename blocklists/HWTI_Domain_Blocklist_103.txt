@@ -1,3 +1,5 @@
+pesquisadiatramo.site
+pesquisadiatramon.site
 pesquisadiatramont.site
 pesquisadiatramonti.site
 pesquisadiatramooti.site
@@ -251,5 +253,3 @@ pizzariabento.site
 pizzariadobento-app.shop
 pizzariapopfornallha.site
 pizzaspopbrasil.site
-pizzaspopdelivery.site
-pizzasspopdelivery.site

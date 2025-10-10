@@ -1,3 +1,5 @@
+immersivecomputing.site
+immersivegpt.site
 immortalblends.online
 imms-turnos.site
 immunitypassport.online
@@ -251,5 +253,3 @@ inspiredchoicevetavirtual.site
 inspiredfuturevetavirtual.site
 inspirednaturalmedicine.online
 inspireflooring.online
-inspireleadsforyou.site
-inspirepathvetavirtual.site

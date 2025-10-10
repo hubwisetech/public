@@ -1,3 +1,6 @@
+projactpland.site
+projactpoland.site
+projctpland.site
 project-impact.online
 project-media.online
 project3d.online
@@ -250,6 +253,3 @@ puravidaremedies.site
 puravitaloja.site
 purdentix.site
 pure-exploration.site
-pureairductservices.site
-pureatlasworks.online
-purebangladesh.xyz
