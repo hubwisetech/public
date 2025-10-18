@@ -1,4 +1,3 @@
-jetdigitalflow.online
 jetdigitalforge.online
 jetdigitalpulse.online
 jetdigitalquest.online
@@ -253,3 +252,4 @@ jpterus100x.online
 jpterus300x.online
 jpterus55x.online
 jpterus66x.online
+jpterus77x.online
