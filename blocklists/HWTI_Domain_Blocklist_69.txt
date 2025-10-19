@@ -1,7 +1,3 @@
-easyorbit.online
-easypercentcalculator.online
-easyprinterguides.online
-easypulsenet.online
 easysdomain.online
 easystepconcept.site
 easystepmotion.site
@@ -253,3 +249,7 @@ electrical-companies-1845.online
 electrical-companies-2396.online
 electrical-companies-4010.online
 electrical-companies-6069.online
+electrical-companies-6410.online
+electrical-companies-6717.online
+electrical-companies-9356.online
+electrical-companies-9795.online
