@@ -1,3 +1,7 @@
+healtyenergy.site
+healtyflow.site
+healtyfocus.site
+healtyguide.site
 healtymind.site
 healtypower.site
 healtypulse.site
@@ -249,7 +253,3 @@ hiringconnect.site
 hiringexperts.site
 hiringglobal.site
 hiringnetwork.site
-hiringpartners.site
-hiringsearch.site
-hiringteam.site
-hiringworld.site

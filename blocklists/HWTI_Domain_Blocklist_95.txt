@@ -1,3 +1,7 @@
+jetdigitalbridge.online
+jetdigitalflow.online
+jetdigitalforge.online
+jetdigitalpulse.online
 jetdigitalquest.online
 jetdigitalreach.online
 jetdigitalrise.online
@@ -249,7 +253,3 @@ jpterus100x.online
 jpterus300x.online
 jpterus55x.online
 jpterus66x.online
-jpterus77x.online
-jpterus88x.online
-jpterus99x.online
-jptyw.org

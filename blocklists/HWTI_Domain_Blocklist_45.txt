@@ -1,3 +1,5 @@
+blocklatino.xyz
+blocklaugh.xyz
 blocklemon.xyz
 blocklight.online
 blocklions.xyz
@@ -251,5 +253,3 @@ bodia.online
 bodrumtrle.xyz
 body-realignment.online
 body-sculpting-412.cfd
-body-sculpting-567.shop
-bodyaccel.store
