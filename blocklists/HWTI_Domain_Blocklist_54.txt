@@ -1,3 +1,5 @@
+chiprocket.site
+chiptraining.online
 chiringuitotv.online
 chiron360.xyz
 chishui.online
@@ -251,5 +253,3 @@ clean-adx-bc7-mks-us-10.cfd
 clean-adx-bc7-mks-us-3.cfd
 clean-adx-bc7-mks-us-8.cfd
 cleanandclearwarehouse.site
-cleancarnivore.site
-cleancoaustralia.online

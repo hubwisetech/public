@@ -1,3 +1,5 @@
+blocklemon.xyz
+blocklight.online
 blocklions.xyz
 blocklocals.xyz
 blocklocate.xyz
@@ -251,5 +253,3 @@ body-realignment.online
 body-sculpting-412.cfd
 body-sculpting-567.shop
 bodyaccel.store
-bodyandlifetransformations.online
-bodybashnightshop.xyz

@@ -1,3 +1,5 @@
+construction-softw-uk.online
+construction-software-bg.online
 construction-software-br.online
 construction-software-bra.online
 construction-software-cro.online
@@ -251,5 +253,3 @@ cosmic-cloud.fun
 cosmicdriftlabs.xyz
 cosmicforge.site
 cosmiqguide.xyz
-cosmisdrippers.xyz
-cosmoscats.xyz
