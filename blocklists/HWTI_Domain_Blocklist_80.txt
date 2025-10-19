@@ -135,6 +135,7 @@ gamestudio99.online
 gamesunity.online
 gametimeperformance.online
 gametoplay.site
+gameupdate-endpoint.com
 gameuytin.site
 gamevegas.xyz
 gamezone2u.site
@@ -252,4 +253,3 @@ gcfightchampionship.online
 gcfinmobiliaria.site
 gcokizclk.biz
 gcoredefenders.com
-gcp-project.xyz
