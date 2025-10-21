@@ -1,3 +1,4 @@
+appliedpool.xyz
 appliedrune.xyz
 appliedshop.xyz
 appliedsite.xyz
@@ -252,4 +253,3 @@ armourtesting.online
 armravolostrum.online
 armsejatisekali.site
 arnaldocont.site
-arnettapike.com
