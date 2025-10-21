@@ -28,6 +28,7 @@ alphacareonline.online
 alphacoaching.online
 alphaconsultoria.site
 alphacoreworld.site
+alphadogprinting.com
 alphaflighttravel.online
 alphaforce.site
 alphamagnet.online
@@ -252,4 +253,3 @@ amazesocial.xyz
 amazestake.xyz
 amazestakes.xyz
 amazeswap.xyz
-amazesync.xyz
