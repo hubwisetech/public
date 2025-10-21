@@ -1,4 +1,3 @@
-skgame.space
 skhannonknutsons.store
 skhpmetrologikabbogor.site
 skildaredefence.online
@@ -253,3 +252,4 @@ smartinbound.online
 smartlabinn.online
 smartleilao2025.site
 smartliftremovals.online
+smartlights.site

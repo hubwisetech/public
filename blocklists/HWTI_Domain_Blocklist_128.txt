@@ -1,4 +1,3 @@
-pico-solidarioenlinea.site
 picoapps.xyz
 picoyplacasolidario-bogota.site
 picsartmodapklatestversion.site
@@ -253,3 +252,4 @@ platinumconsorcio.online
 platinumfacai.online
 platinummerchandise.site
 platinumplumbingtoowoomba.online
+platinumpotatoes.online
