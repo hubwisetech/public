@@ -1,3 +1,4 @@
+dengi-belarus.online
 dengi-v-rb.online
 denimcanvas.online
 denizspot.online
@@ -252,4 +253,3 @@ dex-edgex.site
 dexbreeze.xyz
 dexdefence.xyz
 dexdefense.xyz
-dexdetect.xyz

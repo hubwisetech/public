@@ -1,3 +1,6 @@
+esteiraplus.site
+esteiraportatil.site
+esteirapower.site
 esteirapremium.site
 esteirawalkeasy.site
 esteirawalker.site
@@ -250,6 +253,3 @@ expert-office-refurbishment-contractors-uk-1.online
 expert-office-refurbishment-contractors-uk-2.online
 expert-office-refurbishment-contractors-uk-3.online
 expert-office-refurbishment-contractors-uk.online
-expert-window-repair-services-uk-10.online
-expert-window-repair-services-uk-11.online
-expert-window-repair-services-uk-12.online

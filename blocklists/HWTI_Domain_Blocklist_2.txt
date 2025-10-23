@@ -1,3 +1,4 @@
+0xrecover.xyz
 0xreverse.xyz
 0xrevival.xyz
 0xsigning.xyz
@@ -252,4 +253,3 @@
 123faktura.online
 123feeder.xyz
 123finder.xyz
-123finish.xyz
