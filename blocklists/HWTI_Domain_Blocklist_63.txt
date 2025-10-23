@@ -1,7 +1,3 @@
-cruises-and-lastminutes.online
-crumbhouse.online
-crushology.online
-cruzmedia.online
 crvnascme.com
 cryinyourbeer.online
 cryntalhq.site
@@ -253,3 +249,7 @@ cryptoinvestmentcenter.com
 cryptoinvestoption.com
 cryptojazzholders.com
 cryptojet.xyz
+cryptojuice.xyz
+cryptokick.xyz
+cryptokitz.com
+cryptolabs.click
