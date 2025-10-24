@@ -1,8 +1,3 @@
-backup-power-solutions.online
-backupplansol.xyz
-backuppowersolutions.online
-backwashrecyclers.online
-backyard-pool-kits.online
 backyard-spa-experts.online
 backyardhero.online
 backyardhomebrew.online
@@ -33,7 +28,6 @@ baggage365.xyz
 baggageboutique.online
 bagin-systems.online
 bagn.xyz
-bagonamaditrohds.com
 bagspeed.site
 bagworksol.xyz
 bahiagourmet.site
@@ -253,3 +247,9 @@ bankerdefi.xyz
 bankerinfo.xyz
 bankermafia.xyz
 bankermart.xyz
+bankermint.xyz
+bankerneo.xyz
+bankerpredicts.xyz
+bankerscan.xyz
+bankerwrite.xyz
+bankfactory.xyz

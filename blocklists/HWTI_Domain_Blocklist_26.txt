@@ -241,7 +241,6 @@ ai-course-online.online
 ai-crypto.cloud
 ai-dashx.digital
 ai-gyoumu-kourituka.online
-ai-helper.xyz
 ai-ilusitech.site
 ai-inspira-automation.xyz
 ai-marketplace.online
@@ -253,3 +252,4 @@ ai3tos808.online
 ai4tos808.online
 aiany.top
 aiapklodge.fun
+aiapp-cainvest.site
