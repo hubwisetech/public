@@ -1,3 +1,5 @@
+tech-cloud-computing-syeb2k.bond
+tech-cloud-computing-vf1ajy.bond
 tech-cloud-computing-xf4rqh.bond
 tech-cloud-migration-vi8yqi.bond
 tech-cloud-storage-l64z05.bond
@@ -251,5 +253,3 @@ test57657657576522.online
 test68678667822.online
 testaiquantumtech-grili.online
 testandoaescala.online
-testandtagcoaching.site
-testbuildengina.xyz

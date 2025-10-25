@@ -1,3 +1,5 @@
+microsoft-ads-bing.com
+microsoft-quote-builder.com
 microsoft-telemetry.at
 microsoft.ovh
 microsoftacademy.com
@@ -251,5 +253,3 @@ misxtrubiqward.pics
 misxvmariel.site
 mitchellfong.online
 mitchellgosby.online
-mitchellrehab.online
-mitolivrebrasil.site

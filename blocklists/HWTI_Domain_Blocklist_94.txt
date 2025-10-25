@@ -1,3 +1,4 @@
+hearthandholiday.store
 hearthrsolutions.online
 heartofafricasafaristours.online
 hearttherapeutics.online
@@ -252,4 +253,3 @@ historiasmagicas.online
 historic-hotel-stays.online
 historynews.online
 hitapple.online
-hitclubvn.online

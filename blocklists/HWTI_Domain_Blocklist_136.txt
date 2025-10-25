@@ -1,3 +1,5 @@
+primorsky.site
+primtvoappmyweb.online
 primwebcomapp.online
 princesasdojob.online
 princeskitchens.online
@@ -251,5 +253,3 @@ proposals-holoworld.xyz
 proposals-privix.xyz
 proposals-tairon.xyz
 proposals-turbotoad.xyz
-propublishing.online
-propublishingstudio.online
