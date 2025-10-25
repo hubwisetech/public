@@ -1,3 +1,4 @@
+cloudvider.site
 cloudvisionpro.site
 cloudvoyage.site
 cloudwallets.site
@@ -252,4 +253,3 @@ coinstext.com
 coinstrikenl.site
 coinstrikingholdandwin.online
 coinsupreme.xyz
-cointargets.xyz

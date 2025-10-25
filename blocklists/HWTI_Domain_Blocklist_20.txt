@@ -1,3 +1,4 @@
+88channel.xyz
 88charity.xyz
 88checkout.xyz
 88cheetah.xyz
@@ -252,4 +253,3 @@
 88optimum.xyz
 88package.xyz
 88packages.xyz
-88packets.xyz

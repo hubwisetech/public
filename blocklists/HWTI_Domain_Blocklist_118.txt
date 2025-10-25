@@ -1,3 +1,5 @@
+microsofabidjan.store
+microsoft-account.online
 microsoft-ads-bing.com
 microsoft-quote-builder.com
 microsoft-telemetry.at
@@ -251,5 +253,3 @@ misteruntung88razor.xyz
 mistralpiscine.online
 misxtrubiqward.pics
 misxvmariel.site
-mitchellfong.online
-mitchellgosby.online

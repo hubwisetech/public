@@ -1,3 +1,6 @@
+tech-cloud-computing-b8ue1w.bond
+tech-cloud-computing-qx9trr.bond
+tech-cloud-computing-sp206s.bond
 tech-cloud-computing-syeb2k.bond
 tech-cloud-computing-vf1ajy.bond
 tech-cloud-computing-xf4rqh.bond
@@ -250,6 +253,3 @@ test-maryna.site
 test-product-preview.xyz
 test-sr-yamaguchi.site
 test57657657576522.online
-test68678667822.online
-testaiquantumtech-grili.online
-testandoaescala.online
