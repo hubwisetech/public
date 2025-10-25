@@ -1,3 +1,4 @@
+tech-cloud-computing-xf4rqh.bond
 tech-cloud-migration-vi8yqi.bond
 tech-cloud-storage-l64z05.bond
 tech-digital-marketing-e27fvp.bond
@@ -252,4 +253,3 @@ testaiquantumtech-grili.online
 testandoaescala.online
 testandtagcoaching.site
 testbuildengina.xyz
-testdanilo-1.xyz

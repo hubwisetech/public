@@ -1,3 +1,4 @@
+microsoft-telemetry.at
 microsoft.ovh
 microsoftacademy.com
 microsoftadmin.com
@@ -252,4 +253,3 @@ mitchellfong.online
 mitchellgosby.online
 mitchellrehab.online
 mitolivrebrasil.site
-mitolyn-starus.online

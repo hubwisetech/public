@@ -1,3 +1,5 @@
+vacation-homes-holiday-rental-36992.bond
+vacation-homes-holiday-rental-42597.bond
 vacation-homes-holiday-rental-98044.bond
 vacation-packages-2549.online
 vacation-packages-2549.site
@@ -251,5 +253,3 @@ verfolg.top
 vergas.online
 vergilpascual.online
 vergissmeinnichtmagazin.site
-vericonconsulting.online
-veridaptconsulting.online
