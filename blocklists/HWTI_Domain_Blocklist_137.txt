@@ -1,3 +1,8 @@
+propertydigital.site
+propertymanagementnsw.online
+propertyvalue.site
+propfolio.site
+proposals-holoworld.xyz
 proposals-privix.xyz
 proposals-tairon.xyz
 proposals-turbotoad.xyz
@@ -248,8 +253,3 @@ purepowersocialclub.online
 purepromoflow.site
 pureproteinbliss.site
 purepurityskincare.online
-purerebalance.online
-purerisenow.site
-purerishta.site
-puresanctum.online
-purespirit.store

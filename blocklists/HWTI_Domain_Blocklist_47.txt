@@ -1,3 +1,6 @@
+blockcables.xyz
+blockcage.xyz
+blockcalls.xyz
 blockcambio.xyz
 blockcanada.xyz
 blockcanal.xyz
@@ -250,6 +253,3 @@ blockshake.xyz
 blockshoot.xyz
 blockshout.xyz
 blocksight.online
-blocksketch.xyz
-blocksloan.xyz
-blocksneo.xyz

@@ -1,3 +1,10 @@
+tebazoew-product.online
+tebyanschool.online
+tecchi-broker.online
+tech-advertising-x2hxlm.bond
+tech-ai-consulting-9bnw36.bond
+tech-cloud-computing-2aezkm.bond
+tech-cloud-computing-83ta15.bond
 tech-cloud-computing-b8ue1w.bond
 tech-cloud-computing-qx9trr.bond
 tech-cloud-computing-sp206s.bond
@@ -246,10 +253,3 @@ test-agoshkin.site
 test-doma3.online
 test-domain-a2as123d.online
 test-domain-for-final-test.online
-test-hg-202509091845.online
-test-ide-build.xyz
-test-kishi-20250915-06.xyz
-test-maryna.site
-test-product-preview.xyz
-test-sr-yamaguchi.site
-test57657657576522.online

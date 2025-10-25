@@ -1,3 +1,6 @@
+bizbet-40044.bar
+bizbet-75333.bar
+bizbet-95518.bar
 bizblizzard.xyz
 bizchannels.xyz
 bizflowagency.online
@@ -250,6 +253,3 @@ blockbrazil.xyz
 blockbuck.xyz
 blockbuddha.xyz
 blockbyblockchain.online
-blockcables.xyz
-blockcage.xyz
-blockcalls.xyz
