@@ -1,3 +1,8 @@
+88-project.xyz
+88-prompt.xyz
+88-robots.xyz
+88-speech.xyz
+88-system.xyz
 88-systems.xyz
 88-teacher.xyz
 88-virtual.xyz
@@ -248,8 +253,3 @@
 888comics.xyz
 888commerce.xyz
 888commit.xyz
-888commons.xyz
-888compare.xyz
-888compiler.xyz
-888connects.xyz
-888contacts.xyz

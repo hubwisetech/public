@@ -1,3 +1,8 @@
+777evaluate.xyz
+777fables.xyz
+777faction.xyz
+777factory.xyz
+777families.xyz
 777famous.xyz
 777farmer.xyz
 777faster.xyz
@@ -248,8 +253,3 @@
 777qualify.xyz
 777quality.xyz
 777quebec.xyz
-777quotes.xyz
-777reactor.xyz
-777realty.xyz
-777recharge.xyz
-777record.xyz

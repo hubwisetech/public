@@ -1,3 +1,8 @@
+888commons.xyz
+888compare.xyz
+888compiler.xyz
+888connects.xyz
+888contacts.xyz
 888context.xyz
 888control.xyz
 888convoy.xyz
@@ -248,8 +253,3 @@
 888medical.xyz
 888medicine.xyz
 888medium.xyz
-888melody.xyz
-888member.xyz
-888memory.xyz
-888mentions.xyz
-888mercury.xyz
