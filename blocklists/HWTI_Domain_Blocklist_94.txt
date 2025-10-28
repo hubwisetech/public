@@ -179,6 +179,7 @@ googlcxvoru.icu
 googlcxvorv.icu
 google-chat-spaces.schwarz
 google-cloud-security.com
+google-firebase.digital
 google-login.org
 google-maps-scraper.com
 google-play.site
@@ -252,4 +253,3 @@ gosznak-diplomf-24.online
 gosznak-diplomh-24.online
 gosznak-diplomk-24.online
 gothamvibes.online
-gotk5y650.click

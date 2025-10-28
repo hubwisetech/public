@@ -1,3 +1,4 @@
+techtronik.store
 techvisioncompany.online
 techwalnut.online
 techways.online
@@ -252,4 +253,3 @@ thang9rucrolennao.site
 thanhbinhtechnology.site
 thankyoujuergen.online
 thankyoumaniaserver.site
-thankyouorder.online

@@ -1,3 +1,4 @@
+recaptcha-confirm.com
 recaptcha-confirm.live
 recaptcha-human.com
 recaptcha-login.com
@@ -252,4 +253,3 @@ relaxing-sound-machines.online
 relaxura-pillow.store
 relays-coinbase.com
 relevantclothing.xyz
-reliable-home-insurance.online
