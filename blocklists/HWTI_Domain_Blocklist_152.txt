@@ -1,3 +1,7 @@
+recaptcha-confirm.live
+recaptcha-human.com
+recaptcha-login.com
+recaptcha-meta.org
 recaptcha-metacloud.com
 recaptcha-metahorizon.com
 recaptcha-metahorizon.org
@@ -249,7 +253,3 @@ relaxura-pillow.store
 relays-coinbase.com
 relevantclothing.xyz
 reliable-home-insurance.online
-reliablepathtravel.xyz
-reliablerouteplanners.xyz
-reliablerydistr.online
-reliabletravelagents.xyz

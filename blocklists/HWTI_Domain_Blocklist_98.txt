@@ -1,3 +1,5 @@
+google-login.org
+google-maps-scraper.com
 google-play.site
 google-securitypage.com
 google-sunn.com
@@ -251,5 +253,3 @@ greendesigngroup.online
 greendomecentral.online
 greendotfinancial.online
 greenenvy.online
-greenerstudio.online
-greenfactory.site

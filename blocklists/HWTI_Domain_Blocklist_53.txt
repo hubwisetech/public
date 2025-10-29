@@ -1,3 +1,4 @@
+block-eth.xyz
 block-hodl.xyz
 block-host.store
 block-loan.xyz
@@ -252,4 +253,3 @@ blockkinetic.xyz
 blockkings.xyz
 blockknock.xyz
 blockkoala.xyz
-blockkorea.xyz

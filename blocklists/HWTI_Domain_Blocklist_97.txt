@@ -1,3 +1,5 @@
+globalsourcing.site
+globalstreamtech.xyz
 globalswiftlg.site
 globalswimtrading.xyz
 globaltitanlogistics.site
@@ -251,5 +253,3 @@ googlcxvorv.icu
 google-chat-spaces.schwarz
 google-cloud-security.com
 google-firebase.digital
-google-login.org
-google-maps-scraper.com

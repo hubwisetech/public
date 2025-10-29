@@ -1,3 +1,4 @@
+bottlehub.shop
 bottlereview.online
 botusp.ru
 botva.fun
@@ -252,4 +253,3 @@ brightinfo.online
 brightiucenter.online
 brightlake.online
 brightlake.site
-brightlegal.online
