@@ -1,3 +1,6 @@
+block-hodl.xyz
+block-host.store
+block-loan.xyz
 block-loans.xyz
 block-map.xyz
 block-neo.xyz
@@ -250,6 +253,3 @@ blockkings.xyz
 blockknock.xyz
 blockkoala.xyz
 blockkorea.xyz
-blocklabor.xyz
-blocklanka.xyz
-blocklatin.xyz

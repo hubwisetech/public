@@ -1,3 +1,5 @@
+appealclub.xyz
+appealhold.xyz
 appealingeoitem.online
 appeallabs.xyz
 appeallaw.xyz
@@ -251,5 +253,3 @@ appliedfi.xyz
 appliedfractional.xyz
 appliedfractionalize.xyz
 appliedid.xyz
-appliedinfo.xyz
-appliedlens.xyz
