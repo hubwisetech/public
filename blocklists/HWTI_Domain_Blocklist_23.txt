@@ -1,8 +1,3 @@
-888helper.xyz
-888heritage.xyz
-888highway.xyz
-888hiphop.xyz
-888holiday.xyz
 888holidays.xyz
 888holland.xyz
 888honcho.xyz
@@ -253,3 +248,8 @@
 888printing.xyz
 888priority.xyz
 888producer.xyz
+888profiles.xyz
+888program.xyz
+888progress.xyz
+888project.xyz
+888projects.xyz

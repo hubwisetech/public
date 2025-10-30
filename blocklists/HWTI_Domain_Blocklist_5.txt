@@ -230,7 +230,6 @@
 201k8z20s899.icu
 20201203ahric.buzz
 20202-50539v.cyou
-2022-05-15-iocs-for-deadbolt-ransomware.md
 202321314128.online
 2024008com2025xl01.shop
 2024008com2025xl02.shop
@@ -241,9 +240,6 @@
 2024338com2025xl02.shop
 2024fusioncore.xyz
 2024liquid.xyz
-2025-03-04-group-likely-impersonating-bianlian.md
-2025-03-14-testing-cve-2025-24813.md
-2025-04-17-ingressnightmare-scans-and-testing.md
 2025-bigsale.shop
 2025-vodka.top
 202515202.xyz
@@ -253,3 +249,7 @@
 202519203.xyz
 202519204.xyz
 202519205.xyz
+202519206.xyz
+202519208.xyz
+202519209.xyz
+202519210.xyz

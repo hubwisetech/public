@@ -1,8 +1,3 @@
-aetherflowsystems.xyz
-aetherprivacy.xyz
-aethersoftech.online
-aethersoftware.online
-aetherwavedigital.online
 aetherzone.org
 aetritus.cfd
 afd52fe8fca35536.com
@@ -253,3 +248,8 @@ aibotplatform.site
 aibuildingdesign.site
 aicepglobal.site
 aicloudmetrics.com
+aicloudml.com
+aicloudvms.com
+aicommander.site
+aicomplianceofficer.site
+aiconsult.xyz

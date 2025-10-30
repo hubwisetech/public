@@ -1,8 +1,3 @@
-777crowds.xyz
-777cruise.xyz
-777crystal.xyz
-777crystals.xyz
-777current.xyz
 777custody.xyz
 777cyprus.xyz
 777daemon.xyz
@@ -253,3 +248,8 @@
 777patent.xyz
 777pathway.xyz
 777payday.xyz
+777payout.xyz
+777payroll.xyz
+777penguin.xyz
+777people.xyz
+777persia.xyz
