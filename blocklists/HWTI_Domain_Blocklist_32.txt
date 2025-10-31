@@ -1,4 +1,3 @@
-aethersoftware.online
 aetherwavedigital.online
 aetherzone.org
 aetritus.cfd
@@ -253,3 +252,4 @@ aicepglobal.site
 aicloudmetrics.com
 aicloudml.com
 aicloudvms.com
+aicommander.site

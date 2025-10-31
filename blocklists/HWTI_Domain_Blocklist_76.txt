@@ -1,10 +1,3 @@
-dental-care-107.online
-dental-care-18812.site
-dental-care-2616.online
-dental-care-377.online
-dental-care-4135.online
-dental-clinic-6971.online
-dental-clinic-7427.online
 dental-implants-4928301.bond
 dental-implants-5269032.bond
 dental-implants-8301927.bond
@@ -253,3 +246,10 @@ dexbreeze.xyz
 dexdecade.xyz
 dexdefence.xyz
 dexdefense.xyz
+dexdetect.xyz
+dexdividend.xyz
+dexeffect.xyz
+dexevolve.xyz
+dexexpand.xyz
+dexextreme.xyz
+dexfeeder.xyz

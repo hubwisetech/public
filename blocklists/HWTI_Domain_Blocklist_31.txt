@@ -79,7 +79,6 @@ adn-future.site
 adncrypto.com
 adobe-third.online
 adobecreative.online
-adoblesecuryt.com
 adolfojoalheriaeotica.online
 adom-facility.online
 adonisbets.xyz
@@ -253,3 +252,4 @@ aether-chip.site
 aetherflowsystems.xyz
 aetherprivacy.xyz
 aethersoftech.online
+aethersoftware.online

@@ -1,6 +1,3 @@
-appcleanmax.online
-appcontabdas.online
-appdehojeemdia.site
 appdiversy.site
 appdllabs.xyz
 appdrivemax.site
@@ -253,3 +250,6 @@ appliedauth.xyz
 appliedbets.xyz
 appliedbit.xyz
 appliedbot.xyz
+appliedcafe.xyz
+appliedcode.xyz
+applieddapp.xyz
