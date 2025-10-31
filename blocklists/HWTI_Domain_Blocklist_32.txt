@@ -1,6 +1,8 @@
+aethersoftware.online
 aetherwavedigital.online
 aetherzone.org
 aetritus.cfd
+af-itsolutions.pt
 afd52fe8fca35536.com
 afdd4f0cf0911db642.com
 affable365.xyz
@@ -53,6 +55,7 @@ afonsocabral.online
 afonsoleitao.site
 aforementioned.xyz
 afornalhapoppizzaria.site
+afpsat.pt
 afrccimtcrnet.com
 afrccirtcrnct.com
 afrecimtcrnct.com
@@ -250,6 +253,3 @@ aibotplatform.site
 aibuildingdesign.site
 aicepglobal.site
 aicloudmetrics.com
-aicloudml.com
-aicloudvms.com
-aicommander.site
