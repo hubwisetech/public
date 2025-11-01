@@ -1,3 +1,5 @@
+capital-top-finriseup.sbs
+capital-top-finrisezone.sbs
 capital-top-finshiftpro.sbs
 capital-top-finversehub.sbs
 capital-top-fundprimepath.sbs
@@ -251,5 +253,3 @@ carolinesdrinks.online
 carolroennfeldt.online
 carpenterforyou.online
 carpentrycorp.online
-carpetnazeef.site
-carreira360.site

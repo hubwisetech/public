@@ -1,3 +1,10 @@
+srx5492.click
+srx5651.click
+srx5777.click
+srx6651.click
+srx6791.click
+srx6955.click
+srx7020.click
 srx7327.click
 srx7480.click
 srx8076.click
@@ -246,10 +253,3 @@ stmarybusnsw.online
 stmarymagdalene.online
 stmaryscarservice.online
 stmarysskincancerclinic.online
-stmmedicalcenter.online
-stnjgbqwpispt.store
-stochasticfun.xyz
-stockairdrop.xyz
-stockforai10.xyz
-stockinvestment.site
-stockjump.fun

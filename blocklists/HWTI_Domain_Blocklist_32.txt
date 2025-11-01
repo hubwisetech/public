@@ -241,6 +241,7 @@ ai-gyoumu-kourituka.online
 ai-ilusitech.site
 ai-inspira-automation.xyz
 ai-marketplace.online
+ai-messenger.co
 ai-no-kake-hashi.xyz
 ai-wedding.store
 ai1tos808.online
@@ -252,4 +253,3 @@ aiapp-cainvest.site
 aibabes-hot.site
 aibotplatform.site
 aibuildingdesign.site
-aicepglobal.site

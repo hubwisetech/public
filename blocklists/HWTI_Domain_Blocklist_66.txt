@@ -1,3 +1,5 @@
+clovercroftdigital.online
+cloverdining.online
 cloverhealth.online
 clovervantique.online
 clrclash-tapduel.online
@@ -251,5 +253,3 @@ coinsharbor.com
 coinsharest.com
 coinsketch.xyz
 coinslice.xyz
-coinsnest.com
-coinspace.fun

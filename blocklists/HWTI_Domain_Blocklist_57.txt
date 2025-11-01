@@ -1,3 +1,5 @@
+bridgesalliance.online
+bridgesdataconsulting.online
 bridgewayfoods.site
 bridginggapsedu.online
 bridgithawkins.online
@@ -251,5 +253,3 @@ buildingcommunity.online
 buildingsupport.online
 buildlinkaus.online
 buildndevelop.online
-buildon-online.xyz
-buildora-eg.online

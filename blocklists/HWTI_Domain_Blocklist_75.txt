@@ -1,3 +1,5 @@
+dazzledapp.xyz
+dazzleddao.xyz
 dazzleddapp.xyz
 dazzleddex.xyz
 dazzledid.xyz
@@ -251,5 +253,3 @@ demo-pajeai.site
 demo-school.xyz
 demo-sevenstackbr.online
 demobreakdownps.site
-demolish888.xyz
-demolitionmanager.online
