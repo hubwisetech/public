@@ -1,3 +1,4 @@
+capital-top-finshiftpro.sbs
 capital-top-finversehub.sbs
 capital-top-fundprimepath.sbs
 capital-top-fundrisepro.sbs
@@ -252,4 +253,3 @@ carpenterforyou.online
 carpentrycorp.online
 carpetnazeef.site
 carreira360.site
-carrickadvisory.online

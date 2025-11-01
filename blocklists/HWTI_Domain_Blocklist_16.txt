@@ -1,3 +1,4 @@
+777current.xyz
 777custody.xyz
 777cyprus.xyz
 777daemon.xyz
@@ -252,4 +253,3 @@
 777payroll.xyz
 777penguin.xyz
 777people.xyz
-777persia.xyz

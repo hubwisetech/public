@@ -1,3 +1,4 @@
+852346915.xyz
 852346916.xyz
 852346917.xyz
 852346918.xyz
@@ -252,4 +253,3 @@
 888ballot.xyz
 888banner.xyz
 888barrel.xyz
-888barrier.xyz

@@ -1,3 +1,6 @@
+srx7327.click
+srx7480.click
+srx8076.click
 srx8096.click
 srx8263.click
 srx8340.click
@@ -250,6 +253,3 @@ stockairdrop.xyz
 stockforai10.xyz
 stockinvestment.site
 stockjump.fun
-stockrecargas.online
-stocktrader.site
-stockuistore.online
