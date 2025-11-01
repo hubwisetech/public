@@ -1,3 +1,5 @@
+softspicestore.site
+software-492910573.sbs
 software-demo.site
 software-engineering-gb-726593.shop
 software-for-tradesmen.online
@@ -251,5 +253,3 @@ spacingout.xyz
 spainnewsaggregator.site
 spaintouch.online
 spandirone.online
-spankikikisupportser.online
-spantechindia.com

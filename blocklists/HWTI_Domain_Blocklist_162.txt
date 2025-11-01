@@ -1,3 +1,5 @@
+sites-leiria.pt
+siteseguroht.site
 sitewebmail.site
 sitharafinalprojectcinec.xyz
 sition5wensik.site
@@ -251,5 +253,3 @@ slovopacanasezonsaf.online
 slovopacanasezonsph.online
 slovopacanavseseriiavb.online
 slovopacanavseseriijtc.online
-slovopacanavseseriiogx.online
-slovopacanavseseriiqur.online

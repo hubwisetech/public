@@ -1,3 +1,5 @@
+security-jobs-46218.bond
+security-jobs-46902.bond
 security-jobs-50138.bond
 security-jobs-62503.bond
 security-jobs-91058.bond
@@ -251,5 +253,3 @@ shadowiptv.site
 shadowlordlegacy.online
 shadowpanel.online
 shadowpulselegend.xyz
-shadowsbecomesubstance.site
-shadowsfilms.online
