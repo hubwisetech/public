@@ -8,7 +8,6 @@
 004922888.cyou
 004922888.shop
 004dn6nu3zig26.hair
-0055xinjiang.com
 007006197156494749.shop
 007018comtz.shop
 00852tech.com
@@ -38,7 +37,6 @@
 0149722.com
 015v80ljd9j.shop
 01656773647.shop
-0170f1b647eb.top
 017314coinbase.com
 01901s1z20.cyou
 0192226809012.shop
@@ -62,8 +60,6 @@
 02482-sajk2qwadd.top
 026024bdb1024.beer
 0269000.com
-028b8191ed8ac62c.com
-02b32m822.xyz
 02dghex640.shop
 02m3p3jn6kz.icu
 02pegasus4d.xyz
@@ -72,12 +68,8 @@
 030048465.xyz
 030048515.xyz
 030048928.xyz
-031230485.xyz
-031231534.xyz
-031231543.xyz
 03162331459.shop
 034gn56kec.live
-0368245356.info
 037766661515.com
 039384024787558170.shop
 039858f297.com
@@ -197,7 +189,6 @@
 0a37cd8806538bc5e3e4b5dc17c4038d.com
 0a6cf6dd465b34182496e2920859f0dc.com
 0a779eed07bc840ac8b6d0d0571a55f4.com
-0b67321330070824.com
 0da8c50f1210451d1404b3ff408c1b5d.net
 0dc4a70c210251.beer
 0dh-519389.top
@@ -230,7 +221,6 @@
 0t490v4vrgj.shop
 0v4skx43cd.shop
 0vm93sq9rh.shop
-0wlaa3wvmdgq.xyz
 0x-crypto.xyz
 0x-system.xyz
 0x-wallet.xyz
@@ -239,7 +229,6 @@
 0xachieve.xyz
 0xacquire.xyz
 0xanalyze.xyz
-0xbe4ada0e9d88380fb2f81d92c72e863978.xyz
 0xbetcasino.online
 0xbetcasinodownload.site
 0xbicycle.xyz
@@ -253,3 +242,14 @@
 0xexplain.xyz
 0xfinland.xyz
 0xforward.xyz
+0xgateway.xyz
+0xgiraffe.xyz
+0xhundred.xyz
+0xjerseys.xyz
+0xjewelry.xyz
+0xkeyword.xyz
+0xminimal.xyz
+0xmorocco.xyz
+0xmystery.xyz
+0xofficer.xyz
+0xpreview.xyz
