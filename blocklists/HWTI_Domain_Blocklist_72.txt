@@ -1,3 +1,6 @@
+construction-software-in-ger.online
+construction-software-in-mx.online
+construction-software-in-uk.online
 construction-software-nl.online
 construction-software-pol.online
 construction-software-ro.online
@@ -250,6 +253,3 @@ cosmicdriftlabs.xyz
 cosmicecho.online
 cosmicforge.site
 cosmictoto.xyz
-cosmiqguide.xyz
-cosmisdrippers.xyz
-cosmoscats.xyz

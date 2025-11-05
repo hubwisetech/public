@@ -1,3 +1,6 @@
+cryptocurrency-22841.bond
+cryptocurrency-22900.bond
+cryptocurrency-24476.bond
 cryptocurrency-29679.bond
 cryptocurrency-35465.bond
 cryptocurrency-35637.bond
@@ -250,6 +253,3 @@ cryptoscrim.com
 cryptosdude.com
 cryptoseason.xyz
 cryptoseeders.com
-cryptoserve.xyz
-cryptosherlock.club
-cryptoshirt.xyz

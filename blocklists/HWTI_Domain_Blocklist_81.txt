@@ -1,3 +1,6 @@
+dexdetect.xyz
+dexdividend.xyz
+dexeffect.xyz
 dexevolve.xyz
 dexexpand.xyz
 dexextreme.xyz
@@ -250,6 +253,3 @@ digitaltrends.top
 digitaltwins.site
 digitalupdate.site
 digitalvisionpro.site
-digitalvoxtelecom.online
-digitalwebtec.site
-digitalwithjeevika.online
