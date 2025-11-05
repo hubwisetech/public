@@ -1,4 +1,3 @@
-777business.xyz
 777buying.xyz
 777buynow.xyz
 777cables.xyz
@@ -253,3 +252,4 @@
 777madrid.xyz
 777malaysia.xyz
 777manager.xyz
+777member.xyz

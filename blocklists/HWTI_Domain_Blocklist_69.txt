@@ -1,6 +1,3 @@
-complete777.xyz
-completeai-test.online
-completeaitest.online
 completeassist.site
 completebody.online
 completecareservices.online
@@ -253,3 +250,6 @@ consultaonlinepagina.site
 consultar-importacoesbr.online
 consultar-veiculo.site
 consultarencomendass.online
+consultarnomebr.site
+consultarpedidosbr.online
+consultas-audiovita.site

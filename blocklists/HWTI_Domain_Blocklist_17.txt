@@ -1,4 +1,3 @@
-777member.xyz
 777merchant.xyz
 777mercury.xyz
 777message.xyz
@@ -253,3 +252,4 @@
 777terminal.xyz
 777thailand.xyz
 777theater.xyz
+777theatre.xyz

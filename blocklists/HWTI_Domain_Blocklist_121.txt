@@ -1,7 +1,3 @@
-lecinematip.online
-lecturaespecial.site
-lecturaespeciales.site
-led-profi-hubi.online
 led-profi-innovati.online
 led-profi-nexus.online
 led-profi-spotlight.online
@@ -253,3 +249,7 @@ lightandstory.site
 lightech.store
 lightfoot.top
 lightform.site
+lightfuturevetavirtual.site
+lightinyourlife.site
+lightloveandpower.online
+lightlycentered.online
