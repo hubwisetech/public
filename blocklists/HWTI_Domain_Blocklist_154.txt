@@ -1,3 +1,8 @@
+propfolio.site
+proposals-holoworld.xyz
+proposals-privix.xyz
+proposals-tairon.xyz
+proposals-turbotoad.xyz
 propublishing.online
 propublishingstudio.online
 propublishingstudio.site
@@ -248,8 +253,3 @@ pureatlasworks.online
 pureaura.shop
 purebalance.space
 purebangladesh.xyz
-pureclosings.online
-purecompost.online
-purecrypto.xyz
-pureedgesolutions.online
-pureenergypath.site

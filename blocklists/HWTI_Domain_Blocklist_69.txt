@@ -1,3 +1,4 @@
+clickbot.site
 clickcatalogodigital.online
 clickcheck.online
 clickcollect.site
@@ -252,4 +253,3 @@ codechameleons-pro8.online
 codecrush.click
 codedbyivan.online
 codefabric.xyz
-codefusion.site

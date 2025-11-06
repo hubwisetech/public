@@ -1,3 +1,4 @@
+dropprover.xyz
 droppublish.xyz
 droppundix.xyz
 droppurpose.xyz
@@ -252,4 +253,3 @@ dynamicsduo.online
 dynamicspulse24matrix.sbs
 dynamictechies.online
 dynamicvetavirtual.site
-dynamicwavesoftware.xyz
