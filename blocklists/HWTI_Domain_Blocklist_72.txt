@@ -1,3 +1,5 @@
+connectingdev.online
+connectinghealthservices.online
 connectingspiritualretreat.online
 connectionsgame.online
 connectjavadevelopers.online
@@ -251,5 +253,3 @@ coreforward.buzz
 coreframefitness.online
 corefusionassets.online
 corelytiko.xyz
-coremetrics.online
-corestone.online

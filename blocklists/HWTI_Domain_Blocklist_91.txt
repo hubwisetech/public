@@ -1,3 +1,6 @@
+exclusivediscount.shop
+exclusivefashio.online
+exclusiveplay.online
 exclusivestainlessprojects.online
 exclusivevetavirtual.site
 exclusivewatch.online
@@ -250,6 +253,3 @@ facethubs.site
 facetime-join.online
 facetroid.site
 facetroid.xyz
-facevpmcdn.xyz
-facil-acessoriabr.online
-facilidade-o.site

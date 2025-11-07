@@ -1,3 +1,4 @@
+capitaltop-loanmaxedge.sbs
 capitaltop-loanpathhub.sbs
 capitaltop-loanvector.sbs
 capitaltop-loanzilla.sbs
@@ -252,4 +253,3 @@ casino-melbet.xyz
 casino-mostbet-online2.top
 casino-selector7xz.top
 casino-winity.online
-casino-without-swedish-license.online

@@ -1,3 +1,7 @@
+termtogether-ghana.online
+termtogether-iraq.online
+termtogether-jordan.online
+termtogether-mali.online
 termtogether-malta.online
 termtogether-martinique.online
 termtogether-moldova.online
@@ -249,7 +253,3 @@ thebowlsacademy.online
 thebowraldoctor.online
 thebox-colombia.site
 thebrainmaster.site
-thebrandedman.online
-thebrandlift.site
-thebrandup.online
-thebrewside.online
