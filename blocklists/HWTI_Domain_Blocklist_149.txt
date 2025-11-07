@@ -1,3 +1,6 @@
+pesquisadiaapoli.site
+pesquisadiaatramo.site
+pesquisadiaatramon.site
 pesquisadiaatramont.site
 pesquisadiapoli.site
 pesquisadiapolis.site
@@ -250,6 +253,3 @@ pinnaclecourier.online
 pinnacleflux.online
 pinnaclepathvetavirtual.site
 pinnaclepathvoyages.xyz
-pinnacleplayers.online
-pinnacleroute.online
-pinnacletransportlogisticfund.online
