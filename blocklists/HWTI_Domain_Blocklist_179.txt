@@ -1,3 +1,6 @@
+termtogether-aruba.online
+termtogether-egypt.online
+termtogether-germany.online
 termtogether-ghana.online
 termtogether-iraq.online
 termtogether-jordan.online
@@ -250,6 +253,3 @@ thebotanic.site
 thebotanicalyogi.online
 theboutiquepropertyagency.online
 thebowlsacademy.online
-thebowraldoctor.online
-thebox-colombia.site
-thebrainmaster.site

@@ -1,3 +1,6 @@
+rozne-18458572.sbs
+rozne-18575732322.sbs
+rozne-19348573.sbs
 rozne-19857843.sbs
 rozne-284756753.sbs
 rozne-29358753.sbs
@@ -250,6 +253,3 @@ s3id01938.click
 s3id17202.click
 s3id17492.click
 s3id29483.click
-s3id52847.click
-s4-binanceo.com
-s4kmrz45s0.live

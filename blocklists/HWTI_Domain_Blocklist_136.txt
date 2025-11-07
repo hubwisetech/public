@@ -1,3 +1,5 @@
+monitor-pju.site
+monitoring-devices-46219.bond
 monitoring-devices-79051.bond
 monitoring-devices-93825.bond
 monkey-mart.online
@@ -251,5 +253,3 @@ ms-energieloesungen.online
 ms-gp77-1.online
 ms-gp77-1.store
 ms-vernie-tyupvqm.work
-ms77super.online
-msaczvwcjetyq.online

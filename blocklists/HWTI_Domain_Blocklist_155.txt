@@ -1,3 +1,6 @@
+publicservices.online
+publicsource.online
+publihomenssite.online
 publiserver.online
 publishingservices.online
 pubmetrics.online
@@ -250,6 +253,3 @@ qaxno1.ml
 qazplmfermawsxedcrtybnu.store
 qazplmfermaxswedcnvytuj.store
 qazwsxfermahjklmnbvc.store
-qazwsxfermahjklmnbvcxz.store
-qazxcvbgt.site
-qbfqaetlwy.biz
