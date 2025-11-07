@@ -1,4 +1,3 @@
-appliedpool.xyz
 appliedrune.xyz
 appliedshop.xyz
 appliedsite.xyz
@@ -253,3 +252,4 @@ argal.is
 argelion14.site
 argemiroconsult.site
 argentahome.online
+argentina-play.site
