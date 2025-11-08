@@ -1,4 +1,3 @@
-888nations.xyz
 888natural.xyz
 888navigate.xyz
 888nearby.xyz
@@ -253,3 +252,4 @@
 888supplies.xyz
 888supply.xyz
 888surplus.xyz
+888survey.xyz

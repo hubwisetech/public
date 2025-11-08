@@ -1,4 +1,3 @@
-88reviewer.xyz
 88reviews.xyz
 88robotic.xyz
 88rockets.xyz
@@ -253,3 +252,4 @@
 8receiver.xyz
 8reference.xyz
 8reserved.xyz
+8reviewer.xyz
