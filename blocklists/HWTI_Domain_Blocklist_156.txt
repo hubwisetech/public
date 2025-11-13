@@ -1,3 +1,4 @@
+nomiq-jump.site
 nomlist.ml
 nona88forcex.xyz
 nona88fortis.xyz
@@ -252,4 +253,3 @@ ntempresa-baker.site
 ntempresa-mm-corretora.site
 ntempresa-plugin-capital.site
 ntempresaastro-capital.site
-ntempresatruver-corretora.site

@@ -1,3 +1,4 @@
+spectrolite.online
 spectrumhealth.online
 speculators-selections.online
 speechcraftsp.online
@@ -252,4 +253,3 @@ staffrecruitment.online
 staftrak.site
 stagecraftai.online
 staging-montsalvat.online
-staidhome.online

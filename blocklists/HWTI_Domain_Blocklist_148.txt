@@ -1,3 +1,4 @@
+micromarts.store
 micromatch.site
 micronetsoftoffice.com
 micronkbox.xyz
@@ -252,4 +253,3 @@ mirotvorecvseseriilfp.online
 mirotvorecvseseriinss.online
 mirotvorecvseseriisin.online
 mirotvorecvseseriitfl.online
-mirotvorecvseseriixlv.online
