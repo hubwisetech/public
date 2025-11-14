@@ -1,5 +1,3 @@
-blackhawkhomes.online
-blackhousee.online
 blackiceberg.site
 blackivyartistry.online
 blackjack-roulette-be.site
@@ -253,3 +251,5 @@ blockcobra.xyz
 blockcodes.xyz
 blockcoinbase.com
 blockcold.xyz
+blockcolony.xyz
+blockcolumn.xyz

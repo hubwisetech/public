@@ -1,5 +1,3 @@
-blockcolony.xyz
-blockcolumn.xyz
 blockcombat.xyz
 blockcomes.xyz
 blockcomet.xyz
@@ -253,3 +251,5 @@ bloomdailyva.online
 bloomfuldelights.store
 bloomhavenhealt.online
 bloomingdays2k.online
+bloommlight.space
+bloomnpresent.online

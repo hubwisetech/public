@@ -1,7 +1,3 @@
-confirmation-87136.com
-confirmation-92135.com
-confirmation-92817.com
-confirmation-9709.com
 confirmation-99034.com
 confirmation-i53211722.com
 confirmation-i5377363.com
@@ -253,3 +249,7 @@ confirmation-id1703.com
 confirmation-id1704.com
 confirmation-id1705.com
 confirmation-id1706.com
+confirmation-id1707.com
+confirmation-id1708.com
+confirmation-id1709.com
+confirmation-id1710.com

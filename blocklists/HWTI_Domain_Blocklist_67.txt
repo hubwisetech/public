@@ -1,7 +1,3 @@
-capitaltop-fundboostzone.sbs
-capitaltop-loancoreai.sbs
-capitaltop-loanmaxedge.sbs
-capitaltop-loanpathhub.sbs
 capitaltop-loanvector.sbs
 capitaltop-loanzilla.sbs
 capitaltopic.xyz
@@ -253,3 +249,7 @@ cardverify5231-booking.com
 cardverify5301-booking.com
 cardverify53131-booking.com
 cardverify5314-booking.com
+cardverify5327-booking.com
+cardverify53631-booking.com
+cardverify53685-booking.com
+cardverify54220-booking.com
