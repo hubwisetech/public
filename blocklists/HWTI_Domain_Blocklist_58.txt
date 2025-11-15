@@ -1,3 +1,7 @@
+blockarctic.xyz
+blockarena.click
+blockargo.xyz
+blockarmor.xyz
 blockascii.xyz
 blockassay.xyz
 blockatomy.xyz
@@ -249,7 +253,3 @@ blockmount.xyz
 blockmural.xyz
 blocknexus.site
 blocknigeria.xyz
-blocknoble.xyz
-blocknormal.xyz
-blocknorway.xyz
-blocknovaa.site
