@@ -1,5 +1,3 @@
-117ncsiw98.shop
-119196665783736028.shop
 1194-5768-4023-8870.icu
 119413coinbase.com
 119414coinbase.com
@@ -253,3 +251,5 @@
 123speaks.xyz
 123sphere.xyz
 123squeeze.xyz
+123stamps.xyz
+123static.xyz
