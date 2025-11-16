@@ -1,3 +1,4 @@
+cloud-storage-services-21256.bond
 cloud-storage-services-216125f.site
 cloud-storage-services-23405.bond
 cloud-storage-services-24613.bond
@@ -252,4 +253,3 @@ coinbison.xyz
 coinbohemia.xyz
 coinboston.xyz
 coinboxes.sbs
-coinbride.xyz
