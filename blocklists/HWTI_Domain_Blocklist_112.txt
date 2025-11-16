@@ -1,3 +1,7 @@
+kmgv33r15.top
+kmgv33r16.top
+kmgv33r17.top
+kmgv33r18.top
 kmgv33r19.top
 kmgv33r20.top
 kmjtesting.online
@@ -249,7 +253,3 @@ kryptowahrung.xyz
 kryptowaluta.site
 krystaljewel.xyz
 krystaljewels.xyz
-kryxservices.online
-krzwj.info
-kscodeware.online
-kseniiaeshchenko.online
