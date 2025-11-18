@@ -1,3 +1,6 @@
+courtfidral-services.online
+cousin-tech-ia.online
+coustoncapital.online
 covemedispa.online
 covenantwealthsystem.online
 coveproduct.online
@@ -250,6 +253,3 @@ crypto-ed.com
 crypto-emirates.com
 crypto-faq.site
 crypto-gems.com
-crypto-investments-ltd.com
-crypto-klutz-software.com
-crypto-kols.com

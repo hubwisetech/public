@@ -1,3 +1,6 @@
+blockcalls.xyz
+blockcambio.xyz
+blockcanada.xyz
 blockcanal.xyz
 blockcanary.xyz
 blockcandle.xyz
@@ -250,6 +253,3 @@ blocksauce.xyz
 blockscales.xyz
 blockscene.xyz
 blockscheme.xyz
-blockseal.xyz
-blockseals.xyz
-blockseat.xyz
