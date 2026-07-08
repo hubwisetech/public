@@ -5,7 +5,6 @@ business-data-leaks.com
 cirealci.com
 consensus-protocol-v4.org
 debank.auction
-deploypasskey.com
 digital-asset-mart.org
 edge-compliance-node.org
 entry.target
@@ -16,16 +15,11 @@ humansbad2026.com
 hygienehistory.com
 identity-breach-response.org
 itdesk.com
-justsstop.ru
-lkczkqweca.com
 lockbit.black
 lvl99.store
 market-insight-global.com
 ndrt.ink
-nicenicc.com
 onetoken.ink
-passkeyadd.com
-passkeydeploy.com
 puteva.cc
 putevi-srbbqfije.com
 putevi-srbije.help
@@ -51,10 +45,8 @@ putevti-srbije.help
 py-lib-repository.dev
 runners-daily-blog.com
 signindat.com
-smokeenew.com
 varenie.live
 visual-media-rights-group.org
-webstizkgao.com
 winupdate.ink
 winupdate.live
 xenoexecutor.in
