@@ -106,6 +106,7 @@ safevault-hub.info
 scansec-upd.com
 sec-safe-dc.info
 secure-imagehub.info
+service-charge.help
 signal-qr.org
 simaqz.com
 skipraid.com
