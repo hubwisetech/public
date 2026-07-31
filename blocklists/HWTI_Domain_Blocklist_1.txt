@@ -37,6 +37,7 @@ comestore.site
 comi-site.website
 comisignin.online
 comx-view.store
+controlfacturas.site
 corel-draw.net
 cpuz.pro
 crosshair-x.com
@@ -71,6 +72,7 @@ ehostservers.xyz
 elden-ringnightreign.com
 ev2sirbd269o5j.org
 fangorinaf.com
+faturanova.xyz
 ferdium.pro
 fernbus-simulator.com
 fsyahsxd.xin
@@ -251,5 +253,3 @@ processhacker.dev
 processhacker.net
 processhacker.org
 qaksdiuw.xin
-quiantar.com
-qxvnrta.com
