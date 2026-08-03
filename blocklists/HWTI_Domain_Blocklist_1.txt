@@ -73,7 +73,6 @@ ferdium.pro
 fernbus-simulator.com
 freerobux.top
 fsyahsxd.xin
-gecko.id
 gisudyawz.ink
 glary-utilities.com
 gom-player.net
@@ -188,8 +187,6 @@ verify-bloxlink.site
 vlc-media.com
 vlc-media.net
 vlc-player.net
-vpngo.com
-vpngogmail.com
 winservec.net
 winupdate.ink
 winupdate.live
