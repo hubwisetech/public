@@ -10,6 +10,7 @@ amzndev.in
 amzndev.ru
 amznprod.in
 ansysllc.shop
+aonexa.shop
 applecdn.ru
 appledisk.ru
 appledns.ru
@@ -58,7 +59,9 @@ fiddlejoy.ru
 figmacat.ru
 figmanets.in
 flowmiceornfidgring.cc
+fokindenfo1.lol
 freerobux.top
+ftabnews.com
 funchats.ru
 gironetcdn.ru
 goalmate.ru
@@ -79,7 +82,9 @@ littledns.ru
 luau-lang.org
 lvl99.store
 maganet.ru
+mainsec.site
 medhurstwaelcci.net
+megadencer.top
 microsoft-teams.icu
 mindelgate.ru
 ms-sql-auth.com
@@ -93,6 +98,7 @@ netcorps.ru
 netsprot.in
 netsproto.in
 networkads.in
+ngdance.fun
 nimoloxanulokol.com
 nucleusgate.com
 oblox.shop
@@ -102,6 +108,7 @@ os-update-server.live
 os-update-server.org
 os-update-server.top
 partyglacierhip.top
+pozeny.shop
 q1evaluationperformance.net
 rblox.shop
 rblxo.shop
@@ -136,6 +143,7 @@ roverifly.com
 sahusuzuki.in
 satoriestate.com
 scs-techresources.com
+serverdock.online
 shengan-light.com.tw
 shortsurl.bio
 shortsurl.cfd
@@ -144,11 +152,13 @@ shorturls.fun
 softinsallc.online
 sohantraders.com
 solidhostingservices.de
+stardancer.fun
 stuffdns.in
 sustainablegrowthlaunch.de
 taicom.top
 testjoys.ru
 testserveren.com
+thebestscollato.top
 timewebnet.in
 updt-ms-srv.com
 updt-ms-srv.org
@@ -156,6 +166,7 @@ updt-ms-srv.site
 updt-ms-srv.top
 usersatisfactionlab.de
 varenie.live
+vatiter.click
 verify-bloxlink.cfd
 verify-bloxlink.site
 vigmanet.ru
