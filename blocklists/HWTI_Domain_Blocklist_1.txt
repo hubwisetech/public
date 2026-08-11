@@ -9,12 +9,14 @@ addpasskey2fa.com
 addssopasskey.com
 addyourpasskey.com
 assignpasskey.com
+cdnjsdelivr.beer
 ce953a0eb08246617b7f849486c4b26a7af37e9d2e8f0e13b3ae1bf0da8a70a.xyz
 checkpasskey.com
 createmfa.com
 createmypasskey.com
 createpasskey.com
 createssopasskey.com
+deadblogdbdu5wprek7wa2o4ce7rnt6u6ntqeud3hzjjcveosgpsqqqd.onion
 deploypasskey.com
 dog3rj.tech
 dorenzaa.com
@@ -89,6 +91,8 @@ sqfepjvmrd.xyz
 ssopasskey.com
 startpasskey.com
 startpasskeysetup.com
+test-steve.cyou
+update-launcher.xyz
 vniir-avia.space
 vniir-info.space
 wel1.ru
