@@ -184,6 +184,7 @@ npm-cache.com
 ns-claude-js.beer
 nslsconscloud.beer
 nvofficespace.com
+obfuscator.io
 ombut.com
 oraxdata.monster
 osavpn.su
@@ -252,4 +253,3 @@ subusiness.org
 supplementsoftheyear.com
 sverchtun.store
 sverchvpn.space
-syncminer.xyz
