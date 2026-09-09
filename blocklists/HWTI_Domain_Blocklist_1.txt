@@ -94,6 +94,8 @@ goldenearth.ma
 googleapis.com.co
 greatmovies.xyz
 guzeldagenerji.com.tr
+hagaseca.com
+hagaseca.ec
 haliotisbar.com
 hbomaxsign.com
 hbomaxsignin.us
@@ -251,5 +253,3 @@ uact7.info
 uact8.info
 uact9.info
 uhact.info
-uhcactivate.com
-url19.com
