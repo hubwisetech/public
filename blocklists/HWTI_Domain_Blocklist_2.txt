@@ -1,7 +1,9 @@
+insurance.ug
 integratedsso.com
 ipaid.us
 isecurellc.org
 itunes-download.com
+j7tracker.io
 jetoptera.co
 joinmacket.com
 keysyncos.com
@@ -190,6 +192,7 @@ slingcomsamsung.com
 slipvegetable.xyz
 smokecar.space
 smxtech.xyz
+snapshot.xyz
 sncorp.fit
 soil-management.com
 songtheory.xyz
@@ -250,6 +253,3 @@ u320.my
 uact11.info
 uact12.info
 uact13.info
-uact14.info
-uact15.info
-uact16.info
