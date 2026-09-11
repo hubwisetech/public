@@ -1,3 +1,11 @@
+newsinweb.com
+nimbusshield.space
+noht1ng.top
+noiseship.cfd
+northbox.xyz
+ns-claude-js.beer
+nslsconscloud.beer
+offtic.com
 oktasession.com
 openlumakora.com
 oraxdata.monster
@@ -80,6 +88,7 @@ securepulse.space
 sefvraa.com
 selectstructure.com.au
 servantadvice.xyz
+service-nowinc.com
 setpasskey.com
 setupmypasskey.com
 shershvpn.space
@@ -187,6 +196,8 @@ web-safe.beer
 webflare.beer
 whistlebook.cfd
 whistlesong.xyz
+windefender.net
+windowsupdates.us
 windwsecurity.run
 worldview.fit
 wormspark.xyz
