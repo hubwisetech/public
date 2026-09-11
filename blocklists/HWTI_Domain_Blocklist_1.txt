@@ -149,6 +149,7 @@ ganiballektor.cfd
 geeseairport.xyz
 getaiexo.com
 getmyxa.com
+gexwalltool.com
 ghdnsserverns.beer
 girlsgrain.xyz
 gitprogram.com
@@ -252,4 +253,3 @@ nslsconscloud.beer
 offtic.com
 oktasession.com
 openlumakora.com
-oraxdata.monster
