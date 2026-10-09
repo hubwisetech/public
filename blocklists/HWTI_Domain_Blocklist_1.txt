@@ -187,6 +187,11 @@ payment-confirmation.com
 payment-confirmations.com
 payment-sync.com
 payments-sync.com
+pc-sec.hiv
+pc-security.hiv
+pc-sys-reg.hiv
+pc-sys.hiv
+pc-system.hiv
 perplexity-advertising.com
 perplexity-beta-ads.com
 perplexity-beta.com
@@ -248,8 +253,3 @@ verification-security.com
 verification.google
 verifytrtr.vip
 virextec.com
-virtualdailyplanner.pro
-vlad-nazarenko2004.club
-voderlence.com
-voidravenstorm.top
-waygatterol002.com
