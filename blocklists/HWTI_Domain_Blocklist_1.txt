@@ -106,6 +106,7 @@ pc-sec-rust.hiv
 pc-sys-rust.hiv
 permanenttrajectories.world
 pickarest.com
+pipicka.xyz
 plasticbells.com
 powerium.net
 protonmail.me
