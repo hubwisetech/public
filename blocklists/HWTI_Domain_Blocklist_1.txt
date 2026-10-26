@@ -9,6 +9,7 @@ authorization-cdn-press-enter.info
 authorization-code.info
 authorization-press-enter.info
 azuravenue.com
+azurenetfiles.net
 babiesolutions.com
 bagsdar.com
 banksgreenanimals.com
@@ -66,6 +67,7 @@ leftsideegpeakk.com
 lockpopclickgetfile.monster
 marketing080company.one
 massgravel.net
+microsoft-entra.net
 mnoskemp.beer
 newtdsone.shop
 ntdnewtds.shop
@@ -95,3 +97,4 @@ uztickets.com
 verico-de-id.beer
 vilialobos.lol
 vtevens.icu
+winmanage-me.network
