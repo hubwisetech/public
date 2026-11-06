@@ -17,6 +17,7 @@ apinows.com
 artcyberspacetraining.site
 artwavecollective.site
 arusupport-region1-webhook.online
+asdfafadafg.online
 astravioncapital.site
 atlassgroupinc.com
 attacker-collector.com
@@ -73,6 +74,7 @@ drive-g.cloud
 drive-go.cam
 drive-googe.online
 drivegooge.online
+drivegoogel.cam
 dutchfarrms.com
 eccentric-authentication.com
 eolienzaer.com
@@ -97,6 +99,8 @@ goldcreekconcrete.org
 gomescareerplans.com
 goodnfortunes.com
 googedrive.online
+googeldrive.cam
+googelmeet.online
 googemeet.online
 grandseosite91.shop
 grincool.xyz
@@ -249,7 +253,3 @@ westlakeproduces.com
 whitfillsnursery.com
 willowbox.xyz
 windwsecurity.run
-wishcourt.cfd
-wishgrove.cfd
-wwriwashingtonenergy.com
-xcai.pro
